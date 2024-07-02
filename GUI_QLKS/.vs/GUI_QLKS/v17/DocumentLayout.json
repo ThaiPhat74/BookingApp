@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\GUI_QLKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|d:\\source\\gui_qlks\\gui_qlks\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|solutionrelative:gui_qlks\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|D:\\Source\\GUI_QLKS\\dal_qlks\\roomtypedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|solutionrelative:dal_qlks\\roomtypedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|D:\\Source\\GUI_QLKS\\dal_qlks\\roomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|solutionrelative:dal_qlks\\roomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|D:\\Source\\GUI_QLKS\\gui_qlks\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|solutionrelative:gui_qlks\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|D:\\Source\\GUI_QLKS\\gui_qlks\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|solutionrelative:gui_qlks\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|D:\\Source\\GUI_QLKS\\gui_qlks\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|solutionrelative:gui_qlks\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|D:\\Source\\GUI_QLKS\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|solutionrelative:dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|D:\\Source\\GUI_QLKS\\dto\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|solutionrelative:dto\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|D:\\Source\\GUI_QLKS\\dto\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|solutionrelative:dto\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|D:\\Source\\GUI_QLKS\\dal_qlks\\staffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E44ED43-3547-488F-ADE9-93B732A1C41A}|DAL_QLKS\\DAL_QLKS.csproj|solutionrelative:dal_qlks\\staffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|D:\\Source\\GUI_QLKS\\dto\\uoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F83FFB-AD34-4578-9043-016DF554B4C7}|DTO\\DTO.csproj|solutionrelative:dto\\uoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|D:\\Source\\GUI_QLKS\\gui_qlks\\frmthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99CDDE7-5E91-4A4A-89AF-AE02425BEBC5}|GUI_QLKS\\GUI_QLKS.csproj|solutionrelative:gui_qlks\\frmthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "GUI_QLKS\\frmQuanLy.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmQuanLy.cs [Design]",
+              "RelativeToolTip": "GUI_QLKS\\frmQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:20:19.692Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "DTO\\Bill.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DTO\\Bill.cs",
+              "RelativeToolTip": "DTO\\Bill.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:31:23.92Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fadmin.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\fadmin.cs",
+              "RelativeDocumentMoniker": "GUI_QLKS\\fadmin.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\fadmin.cs",
+              "RelativeToolTip": "GUI_QLKS\\fadmin.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAIA7wDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:01:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomTypeDAL.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\RoomTypeDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLKS\\RoomTypeDAL.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\RoomTypeDAL.cs",
+              "RelativeToolTip": "DAL_QLKS\\RoomTypeDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:44:20.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomDAL.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\RoomDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLKS\\RoomDAL.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\RoomDAL.cs",
+              "RelativeToolTip": "DAL_QLKS\\RoomDAL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwCwAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:13:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fadmin.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\fadmin.cs",
+              "RelativeDocumentMoniker": "GUI_QLKS\\fadmin.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\fadmin.cs [Design]",
+              "RelativeToolTip": "GUI_QLKS\\fadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:09:26.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DTO\\RoomType.cs",
+              "RelativeDocumentMoniker": "DTO\\RoomType.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DTO\\RoomType.cs",
+              "RelativeToolTip": "DTO\\RoomType.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwC8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:24:55.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DTO\\Room.cs",
+              "RelativeDocumentMoniker": "DTO\\Room.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DTO\\Room.cs",
+              "RelativeToolTip": "DTO\\Room.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:24:53.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQuanLy.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "GUI_QLKS\\frmQuanLy.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmQuanLy.cs",
+              "RelativeToolTip": "GUI_QLKS\\frmQuanLy.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAtwE0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:12:09.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UOService.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DTO\\UOService.cs",
+              "RelativeDocumentMoniker": "DTO\\UOService.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DTO\\UOService.cs",
+              "RelativeToolTip": "DTO\\UOService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:10:20.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaffDAL.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\StaffDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLKS\\StaffDAL.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\DAL_QLKS\\StaffDAL.cs",
+              "RelativeToolTip": "DAL_QLKS\\StaffDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:23:30.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmThue.cs",
+              "DocumentMoniker": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmThue.cs",
+              "RelativeDocumentMoniker": "GUI_QLKS\\frmThue.cs",
+              "ToolTip": "D:\\Source\\GUI_QLKS\\GUI_QLKS\\frmThue.cs",
+              "RelativeToolTip": "GUI_QLKS\\frmThue.cs",
+              "ViewState": "AQIAALIBAAAAAAAAAAAYwG8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:20:41.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
